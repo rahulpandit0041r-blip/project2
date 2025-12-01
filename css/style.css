@@ -37,7 +37,7 @@ height: 75%;
    width: 100%;
    background-color: black;
    display: flex;
-   gap:40px;
+   
    
 }
 .navbar {
@@ -45,6 +45,7 @@ height: 100%;
    width: 100%;
    color: green;
    display: flex;
+   gap:40px;
    
 }
 .navbar ul {
