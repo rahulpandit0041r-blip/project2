@@ -9,10 +9,22 @@ padding: 0;
      background-color: pink;
      display:flex;
  }
-.menu{
+.menu {
 height: 100%;
    width: 100%;
    color: black;
    display: flex;
    
 }
+.navbar {
+height: 100%;
+   width: 100%;
+   color: green;
+   display: flex;
+   
+}
+.navbar a {
+
+   
+}
+
