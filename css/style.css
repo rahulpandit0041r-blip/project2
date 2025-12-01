@@ -37,6 +37,7 @@ height: 75%;
    width: 100%;
    background-color: black;
    display: flex;
+   gap:40px;
    
 }
 .navbar {
